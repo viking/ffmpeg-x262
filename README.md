@@ -1,4 +1,4 @@
-# Viking Ffmpeg-x262
+# Viking's ffmpeg-x262 build
 
 ## How do I install these formulae?
 `brew install viking/ffmpeg-x262/<formula>`
